@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- markdownlint-disable MD033 -->
+# Hi there, I'm Simon
 
-<!--
-**simonrondelez/simonrondelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="👋" width="29px"> I'm a SRE/Platform engineer with a passion for cloud and self-healing infrastructure. I'm based in Belgium and working as a Platform Engineer at [Skyscrapers](https://skyscrapers.eu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education 🎓
+
+- Bachelor's Degree in Computer Science @ Hogeschool Gent (2010 - 2013)
+
+### Certifications 📜
+
+- AWS Certified SysOps Administrator - Associate (2017)
+
+### Experience 💼
+
+| Job Position          | Company         | Work Period       |
+| --------------------- | --------------- | ----------------- |
+| **Platform Engineer** | **Skyscrapers** | **2016-01 — now** |
+| Operations Lead       | Dama BVBA       | 2013-05 — 2015-10 |
+
+## Connect with me
+
+<a href="[https://linkedin.com/in/simonrondelez](https://www.linkedin.com/in/simonrondelez/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Simon Rondelez" height="30" width="40" /></a>
